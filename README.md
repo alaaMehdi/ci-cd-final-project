@@ -1,4 +1,4 @@
-# Guestbook App
+# ci-cd-final-project
 
 This project demonstrates CI/CD pipeline using:
 - GitHub Actions
