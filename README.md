@@ -13,4 +13,3 @@ This project demonstrates a complete CI/CD pipeline using:
 - OpenShift pipeline automation
 
 ## GitHub Repo
-(https://github.com/alaaMehdi/ibm-coursera-assignment)
